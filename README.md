@@ -9,3 +9,5 @@
 - Dies ist die Repository wo ihr support bekommt. Wir geben keinen Support für Repositorys die geforked sind oder nicht in unserem Projekt sind.
 
 Fehlerbehebungen nur mit entsprechend korrekt befolgter Vorlage!
+
+[Discord](https://discord.gg/Buk3TRZHJA)
